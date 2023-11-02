@@ -1,0 +1,496 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* header start  */
+    .logo{
+        width: 160px;
+    }
+    .menu ul li a {
+        padding:10px 0px !important;
+        float: right;
+    }
+    .n_btn {
+        float: inline-end;
+    }
+            /* slider start  */
+            .slider {
+                padding: 40px 0 60px;
+    
+            }
+            .cns {
+                bottom: -65px;
+            }
+            .cns [data-bs-target] {
+                width: 13px;
+                height: 13px;
+               
+            }
+            .s_text {
+                text-align: center;
+            }
+            .s_text h1 {
+                font-size: 30px;
+                font-weight: 600;
+                color: #17181A;
+                line-height: 40px;
+            }
+            .s_text p {
+                margin:5px 0;
+                padding: 0 10px;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 25px;
+            }
+            .s_text h2 {
+                
+                    margin-bottom:10 !important;
+                    font-size: 20px;
+                    font-weight: 500;
+                    line-height: 25px;
+                
+            }
+            .radio1 {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+    
+            .form-check .form-check-input {
+                float: none;
+                margin-left: -1.5em;
+            }
+                   /* trusted start  */
+            .trused {
+                 padding: 60px 0;
+            }
+             .c_h2 {
+                text-align: center;
+                font-size: 22px;
+                font-weight: 600;
+            }
+            .trus_logo {
+                margin-top: 20px;
+            }
+             /* premium start  */
+             .premium {
+                padding-bottom: 60px;
+            }
+            .p_h2 {
+                margin-top: 60px;
+            }
+            .ntv_menu ul li a {
+                margin: 10px 0;
+            }
+            .nav-tabs {
+                --bs-nav-tabs-border-width: var(--bs-border-width-none);
+                border-width: 0px !important;
+                display: flex;
+                align-items: center;
+                justify-content:start;
+            }
+            .nav_content h3 {
+                text-align: center;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 400;
+                color: #17181A;
+            }
+            .nav_content p {
+                margin-top: 35px;
+                padding: 0px;
+                text-align: center;
+                
+            }
+
+            .icon_text {
+                margin-top: 35px;
+                padding: 30px;
+                border-radius: 16px;
+                background-color: #FDFEFE;
+            }
+             /* platform start  */
+            .platfrom {
+                padding: 60px 0;
+            }
+            .platfrom-img img {
+                padding: 0;
+            }
+            .platfrom-h2 {
+                margin-top: 16px;
+            }
+            .platform_text p {
+                margin-top: 16px;
+                padding: 0;
+                margin-bottom: 0;
+                text-align: center;
+                font-size: 16px;
+            }
+            .book_text h2 {
+                margin-top: 16px;
+                margin-bottom: 0;
+                font-size: 16px;
+                font-style: normal;
+                line-height: 30px;
+            }
+            .book-img {
+                margin-top: 45px;
+                text-align: end;
+            }
+            .book1-text h3 {
+                font-size: 16px;
+                line-height: 30px;
+            }
+            /* help start  */
+            .help {
+                padding-bottom: 60px;
+            
+            }
+            .help_text {
+                padding: 60px 0;
+            }
+            .h_btn {
+                margin-top: 40px !important;
+              
+            }
+            .hels-2 {
+                margin-top: 40px;
+                padding-left: 0px;
+            }
+            .cheek-text p {
+                padding: 0 9px;
+            }
+             /* footer top start  */
+             .footer_top {
+               padding: 55px 0 20px;
+             text-align: center;
+            }
+              .ft_details {
+             margin-bottom: 35px;
+            padding-right: 0;
+             }
+              .ft_link {
+              margin-bottom: 35px;
+             }
+
+
+    
+
+ }
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /* header start  */
+     .logo {
+        width: 180px;
+    }
+     .menu ul li a {
+        padding:10px 0px !important;
+        float: right;
+    }
+    .n_btn {
+        float: inline-end;
+    }
+        /* slider start  */
+        .slider {
+            padding: 40px 0 60px;
+
+        }
+        .cns {
+            bottom: -65px;
+        }
+        .cns [data-bs-target] {
+            width: 13px;
+            height: 13px;
+           
+        }
+        .s_text {
+            text-align: center;
+        }
+        .s_text h1 {
+            font-size: 30px;
+            font-weight: 600;
+            color: #17181A;
+            line-height: 40px;
+        }
+        .s_text p {
+            margin: 5px 0 5px;
+            padding: 0 60px;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 22px;
+        }
+        .s_text h2 {
+            margin-bottom: 0;
+            font-size: 20px;
+            font-weight: 600;
+            line-height: 30px;
+        }
+        .radio1 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .form-check .form-check-input {
+            float: none;
+            margin-left: -1.5em;
+        }
+          /* trusted start  */
+    .trused {
+        padding: 60px 0;
+    }
+    .c_h2 {
+        text-align: center;
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .trus_logo {
+        margin-top: 20px;
+    }
+    /* premium start  */
+    .premium {
+        padding-bottom: 60px;
+    }
+    .p_h2 {
+        margin-top: 60px;
+    }
+    .nav_content h3 {
+        text-align: center;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        color: #17181A;
+    }
+    .nav_content p {
+        margin-top: 35px;
+        padding: 0 17px;
+        text-align: center;
+       
+    }
+    .icon_text {
+        margin-top: 35px;
+        padding: 20px;
+        border-radius: 16px;
+        background-color: #FDFEFE;
+    }
+       /* platform start  */
+       .platfrom {
+        padding: 60px 0;
+    }
+    .platfrom-img img {
+        padding: 0 70px;
+    }
+    .platfrom-h2 {
+        margin-top: 16px;
+    }
+    .platform_text p {
+        margin-top: 16px;
+        padding: 0 70px;
+        margin-bottom: 0;
+        text-align: center;
+        font-size: 16px;
+    }
+    .book_text h2 {
+        margin-top: 16px;
+        margin-bottom: 0;
+        font-size: 18px;
+        font-style: normal;
+        line-height: 30px;
+    }
+    .book-img {
+        margin-top: 50px;
+        text-align: end;
+    }
+    .book1-text h3 {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+     /* help start  */
+     .help {
+        padding-bottom: 60px;
+    
+    }
+     .help_text {
+        padding: 60px 0;
+    }
+    .h_btn {
+        margin-top: 40px !important;
+       
+    }
+    .hels-2 {
+        margin-top: 40px;
+        padding-left: 35px;
+    }
+     /* footer top  */
+     .footer_top{
+        text-align: center;
+    }
+    .ft_details {
+        margin-bottom: 35px;
+        padding: 0 70px;
+    }
+    
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header start  */
+    .menu ul li a {
+        padding:10px 0px !important;
+        float: right;
+    }
+    .n_btn {
+        float: inline-end;
+    }
+    /* slider start  */
+    .slider {
+        padding: 70px 0 80px;
+    }
+    .s_text h1 {
+        font-size: 30px;
+        font-weight: 700;
+        color: #17181A;
+        line-height: 40px;
+    }
+    .s_text p {
+        margin: 5px 0 10px;
+        padding: 0px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;
+    }
+    .s_text h2 {
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 30px;
+    }
+    .radio {
+        margin-right: 0px;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    /* trusted start  */
+    .trused {
+        padding: 70px 0;
+    }
+    .c_h2 {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 0px;
+    }
+    /* premium start  */
+    .premium {
+        padding-bottom: 70px;
+    }
+    .p_h2 {
+        margin-top: 70px;
+    }
+    .nav_content h3 {
+        text-align: center;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 500;
+        color: #17181A;
+    }
+    .nav_content p {
+        margin-top:35px !important;
+        padding: 0 17px;
+        text-align: center;
+    }
+
+    .icon_text {
+        margin-top: 35px;
+        padding: 30px 30px;
+        border-radius: 16px;
+        background-color: #FDFEFE;
+    }
+    /* platform start  */
+    .platfrom {
+        padding: 70px 0;
+    }
+    .platform_text p {
+        margin-top: 16px;
+        padding: 0 12px;
+        margin-bottom: 0;
+        text-align: center;
+        font-size: 16px;
+    }
+    .book_text h2 {
+        margin-top: 16px;
+        margin-bottom: 0;
+        font-size: 18px;
+        font-style: normal;
+        line-height: 30px;
+    }
+    .book-img {
+        margin-top: 45px;
+        text-align: end;
+    }
+    .book1-text h3 {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 32px;
+    }
+    /* help start  */
+    .help{
+        padding-bottom: 70px;
+        
+    }
+    .help_text {
+        padding: 70px 15px;
+    }
+      /* footer top  */
+      .footer_top{
+        text-align: center;
+    }
+    .ft_details {
+        margin-bottom: 35px;
+        padding: 0 80px;
+        color: #fff;
+        line-height: 30px;
+    }
+    
+}
+ 
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* header start  */
+    .menu ul li a {
+        padding:0px 30px !important;
+    }
+    /* trusted start  */
+    .c_h2{
+        letter-spacing: 0px;
+    }
+    /* plart form  */
+    
+    .platform_text p {
+        margin-top: 16px;
+        margin-bottom: 0;
+        text-align: center;
+        font-size: 17px;
+        padding: 0px;
+    }
+    .book-img {
+        margin-top: 45px;
+        text-align: end;
+    }
+    /* help start  */
+    .help_text {
+        padding: 80px 65px;
+    }
+  
+ }
+
+/*extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { ... }
+
+/* Extra extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+     /* footer top  */
+     ft_details {
+        padding-right: 130px;
+    }
+}
